@@ -1,4 +1,4 @@
-<?php require 'config/config.php'; ?>
+<?php require 'config.php'; ?>
 <?php
 if(isset($_GET['id'])){
     $id=$_GET['id'];
